@@ -245,7 +245,7 @@ The scanner has no ESLint dependency. Design decisions are recorded in [docs/adr
 
 ## Contributing
 
-Issues and pull requests are welcome. Set up with `npm ci`, then run `npm test` and `npm run lint` before you push. [CLAUDE.md](CLAUDE.md) describes the architecture and commands, [CONTEXT.md](CONTEXT.md) defines the terms, and [docs/adr](docs/adr) records the design decisions. Report security issues as described in [SECURITY.md](SECURITY.md), not in a public issue.
+Issues and pull requests are welcome. Set up with `npm ci`, then run `npm test` and `npm run lint` before you push. [CLAUDE.md](CLAUDE.md) describes the architecture and commands, [GLOSSARY.md](GLOSSARY.md) defines the terms, and [docs/adr](docs/adr) records the design decisions. Report security issues as described in [SECURITY.md](SECURITY.md), not in a public issue.
 
 ## Migrating from eslint-plugin-unicode-comments
 

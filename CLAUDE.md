@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 `eslint-plugin-unicode-guard`: ESLint plugin that reports hidden and deceptive Unicode (bidirectional controls, invisible characters, tag characters, confusables, unusual whitespace, typographic characters) in every file type ESLint can lint, so AI-generated code and AI instruction files are safe to review. It replaces the deprecated `eslint-plugin-unicode-comments` (same repository, see `MIGRATION.md` and `docs/adr/0004-new-package-name.md`).
 
-Terms (source context, category, finding, vetted sequence, allow entry) are defined in `CONTEXT.md`. Design decisions are in `docs/adr/`.
+Terms (source context, category, finding, vetted sequence, allow entry) are defined in `GLOSSARY.md`. Design decisions are in `docs/adr/`.
 
 ## Commands
 
